@@ -1,0 +1,24 @@
+{
+  "name": "old-sudup-v1",
+  "version": "1.0.0",
+  "description": "An old discord bot",
+  "main": "app.js",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "unirest": "^0.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "8.4.0"
+  },
+  "keywords": [
+    "bot",
+    "discord"
+  ],
+  "author": "SuperOP535",
+  "license": "ISC"
+}
